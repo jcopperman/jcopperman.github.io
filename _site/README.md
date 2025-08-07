@@ -57,7 +57,7 @@ The site will be served at:
 
 ---
 
-## 📤 Deployment via GitHub Pages
+## 📤 Deployment via GitHub Pages1
 
 1. Push changes to the `main` branch.
 2. In repo settings, go to **Pages**.
