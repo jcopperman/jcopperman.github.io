@@ -3,6 +3,7 @@ layout: page
 title: VyOS Quick Start - WireGuard VPN
 nav_order: 3
 parent: Writing Samples
+permalink: /posts/vyos-wireguard/
 ---
 
 # VyOS Quick Start: WireGuard VPN

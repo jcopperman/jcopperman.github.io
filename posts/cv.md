@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CI/CD Guide - Playwright + Azure DevOps
+title: Resume
 nav_order: 1
-parent: Writing Samples
+parent: Resume
 permalink: /posts/playwright-ci-guide/
 ---
 

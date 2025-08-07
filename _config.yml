@@ -1,11 +1,10 @@
-title: Jonathan Opperman – Technical Writing Portfolio
+title: Portfolio
 description: Selected writing samples in QA, DevOps, and technical documentation
 author: Jonathan Opperman
 email: opperman.jonathan@gmail.com
 url: "https://jonathanopperman.github.io"
 
 # Theme configuration
-theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
 # Build settings
@@ -18,11 +17,17 @@ collections:
   posts:
     output: true
     permalink: /:collection/:name/
+  pages:
+    output: true
+    permalink: /:name/
+  tutorials:
+    output: true
+    permalink: /tutorials/:name/
 
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-theme-just-the-docs
+  - jekyll-remote-theme
 
 # Exclude from processing
 exclude:

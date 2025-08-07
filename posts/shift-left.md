@@ -3,6 +3,7 @@ layout: page
 title: Shift-Left Testing - Why It Matters
 nav_order: 2
 parent: Writing Samples
+permalink: /posts/shift-left/
 ---
 
 # Shift-Left Testing: Why It Matters
