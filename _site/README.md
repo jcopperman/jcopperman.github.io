@@ -57,13 +57,24 @@ The site will be served at:
 
 ---
 
-## 📤 Deployment via GitHub Pages1
+## 📤 Deployment via GitHub Pages
 
-1. Push changes to the `main` branch.
-2. In repo settings, go to **Pages**.
-3. Set **Source** to `GitHub Actions` or `main branch (root)`.
-4. Site will be live at:
-   `https://<your-username>.github.io`
+### Option 1: GitHub Actions (Recommended)
+
+1. Push changes to the `main` branch
+2. In repo settings, go to **Pages**
+3. Set **Source** to `GitHub Actions`
+4. The workflow will automatically build and deploy your site
+5. Site will be live at: `https://jcopperman.github.io`
+
+### Option 2: Direct Deployment
+
+1. Push changes to the `main` branch
+2. In repo settings, go to **Pages**
+3. Set **Source** to `main branch (root)`
+4. Site will be live at: `https://jcopperman.github.io`
+
+> **Note**: GitHub Actions is recommended for Jekyll sites with themes and plugins.
 
 ---
 
