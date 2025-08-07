@@ -58,4 +58,4 @@ just_the_docs:
   heading_anchors: true
   
   # Footer content appears at the bottom of every page
-  # footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. <br>This project is <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT Licensed</a>."
+  footer_content: "Copyright &copy; 2025 Jonathan Opperman. All rights reserved."
