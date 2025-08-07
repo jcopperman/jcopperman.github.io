@@ -11,27 +11,27 @@ Welcome to my technical writing portfolio. I specialize in creating clear, compr
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-### [📄 Work Experience](resume)
+### [Work Experience](resume)
 **Professional background and technical expertise**  
 Explore my 15+ years of experience in QA, automation, DevOps, and technical leadership. See how I've evolved from test automation to developer experience and technical writing.
 
-### [📝 Writing Samples](writing-samples)
+### [Writing Samples](writing-samples)
 **Technical documentation and guides**  
 Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, and infrastructure documentation. Each piece demonstrates my approach to clear, actionable technical communication.
 
-### [📚 Tutorials](tutorials)
+### [Tutorials](tutorials)
 **Step-by-step guides and best practices**  
 Access practical tutorials covering technical writing fundamentals, documentation tools, and development workflows. Perfect for teams looking to improve their documentation practices.
 
-### [👤 About](about)
+### [About](about)
 **My journey and approach**  
 Learn about my transition from QA engineering to technical writing, my philosophy on clear communication, and how I think about documentation as infrastructure.
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 I help engineering teams create documentation that:
 - **Removes ambiguity** - Clear, precise language that eliminates guesswork
@@ -39,10 +39,10 @@ I help engineering teams create documentation that:
 - **Improves developer experience** - Reducing friction in onboarding, testing, and deployment
 - **Survives change** - Living documentation that stays current and useful
 
-## 💬 Get In Touch
+## Get In Touch
 
 Ready to improve your team's documentation? Let's discuss how I can help.
 
-📫 [opperman.jonathan@gmail.com](mailto:opperman.jonathan@gmail.com)  
-🌍 [LinkedIn](https://www.linkedin.com/in/jonathanopperman-0a368b4a)
+[Email](mailto:opperman.jonathan@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/jonathanopperman-0a368b4a)
 

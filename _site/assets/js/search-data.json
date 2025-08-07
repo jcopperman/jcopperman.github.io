@@ -210,25 +210,25 @@
     "relUrl": "/#jonathan-opperman"
   },"30": {
     "doc": "Home",
-    "title": "📋 Table of Contents",
-    "content": "📄 Work Experience . Professional background and technical expertise Explore my 15+ years of experience in QA, automation, DevOps, and technical leadership. See how I’ve evolved from test automation to developer experience and technical writing. 📝 Writing Samples . Technical documentation and guides Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, and infrastructure documentation. Each piece demonstrates my approach to clear, actionable technical communication. 📚 Tutorials . Step-by-step guides and best practices Access practical tutorials covering technical writing fundamentals, documentation tools, and development workflows. Perfect for teams looking to improve their documentation practices. 👤 About . My journey and approach Learn about my transition from QA engineering to technical writing, my philosophy on clear communication, and how I think about documentation as infrastructure. ",
-    "url": "/#-table-of-contents",
+    "title": "Table of Contents",
+    "content": "Work Experience . Professional background and technical expertise Explore my 15+ years of experience in QA, automation, DevOps, and technical leadership. See how I’ve evolved from test automation to developer experience and technical writing. Writing Samples . Technical documentation and guides Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, and infrastructure documentation. Each piece demonstrates my approach to clear, actionable technical communication. Tutorials . Step-by-step guides and best practices Access practical tutorials covering technical writing fundamentals, documentation tools, and development workflows. Perfect for teams looking to improve their documentation practices. About . My journey and approach Learn about my transition from QA engineering to technical writing, my philosophy on clear communication, and how I think about documentation as infrastructure. ",
+    "url": "/#table-of-contents",
     
-    "relUrl": "/#-table-of-contents"
+    "relUrl": "/#table-of-contents"
   },"31": {
     "doc": "Home",
-    "title": "🎯 What I Do",
+    "title": "What I Do",
     "content": "I help engineering teams create documentation that: . | Removes ambiguity - Clear, precise language that eliminates guesswork | Scales with teams - Documentation that grows and adapts with your organization | Improves developer experience - Reducing friction in onboarding, testing, and deployment | Survives change - Living documentation that stays current and useful | . ",
-    "url": "/#-what-i-do",
+    "url": "/#what-i-do",
     
-    "relUrl": "/#-what-i-do"
+    "relUrl": "/#what-i-do"
   },"32": {
     "doc": "Home",
-    "title": "💬 Get In Touch",
-    "content": "Ready to improve your team’s documentation? Let’s discuss how I can help. 📫 opperman.jonathan@gmail.com 🌍 LinkedIn . ",
-    "url": "/#-get-in-touch",
+    "title": "Get In Touch",
+    "content": "Ready to improve your team’s documentation? Let’s discuss how I can help. Email LinkedIn . ",
+    "url": "/#get-in-touch",
     
-    "relUrl": "/#-get-in-touch"
+    "relUrl": "/#get-in-touch"
   },"33": {
     "doc": "Home",
     "title": "Home",
