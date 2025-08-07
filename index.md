@@ -10,7 +10,6 @@ nav_order: 1
 Welcome to my technical writing portfolio. I specialize in creating clear, comprehensive documentation for QA, DevOps, and technical processes that help teams move faster and work more effectively.
 
 ---
-yy
 
 ## Table of Contents
 
