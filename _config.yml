@@ -1,0 +1,55 @@
+title: Jonathan Opperman – Technical Writing Portfolio
+description: Selected writing samples in QA, DevOps, and technical documentation
+author: Jonathan Opperman
+email: opperman.jonathan@gmail.com
+url: "https://jonathanopperman.github.io"
+
+# Theme configuration
+theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-theme-just-the-docs
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Just the docs theme settings
+just_the_docs:
+  # Color scheme supports "light" (default) and "dark"
+  color_scheme: light
+  
+  # Enable or disable the site title in the header
+  # title: false
+  
+  # Enable or disable the search
+  # It can be disabled here by setting this to false
+  # If disabled, you must remove the search block from the header
+  search: true
+  
+  # Heading anchor links appear on hover over h1-h6 tags
+  # This option can be disabled by setting this to false
+  heading_anchors: true
+  
+  # Footer content appears at the bottom of every page
+  # footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. <br>This project is <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT Licensed</a>."
