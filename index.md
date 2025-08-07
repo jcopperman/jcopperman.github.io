@@ -5,21 +5,43 @@ nav_order: 1
 ---
 
 # Jonathan Opperman
+*Technical Writer & Developer Experience Specialist*
 
-Welcome to my technical writing portfolio. I specialize in creating clear, comprehensive documentation for QA, DevOps, and technical processes.
+Welcome to my technical writing portfolio. I specialize in creating clear, comprehensive documentation for QA, DevOps, and technical processes that help teams move faster and work more effectively.
 
-## 📘 Writing Samples
+---
 
-### [CI/CD Guide: Playwright + Azure DevOps](posts/playwright-ci-guide/)
-A comprehensive guide to setting up automated testing with Playwright in Azure DevOps pipelines.
+## 📋 Table of Contents
 
-### [Shift-Left Testing: Why It Matters](posts/shift-left/) *(Coming Soon)*
-An exploration of shift-left testing methodologies and their impact on software quality.
+### [📄 Work Experience](resume)
+**Professional background and technical expertise**  
+Explore my 15+ years of experience in QA, automation, DevOps, and technical leadership. See how I've evolved from test automation to developer experience and technical writing.
 
-### [VyOS Quick Start: WireGuard VPN](posts/vyos-wireguard/) *(Coming Soon)*
-A practical guide to setting up WireGuard VPN on VyOS routers.
+### [📝 Writing Samples](writing-samples)
+**Technical documentation and guides**  
+Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, and infrastructure documentation. Each piece demonstrates my approach to clear, actionable technical communication.
 
-## 💬 Contact
+### [📚 Tutorials](tutorials)
+**Step-by-step guides and best practices**  
+Access practical tutorials covering technical writing fundamentals, documentation tools, and development workflows. Perfect for teams looking to improve their documentation practices.
+
+### [👤 About](about)
+**My journey and approach**  
+Learn about my transition from QA engineering to technical writing, my philosophy on clear communication, and how I think about documentation as infrastructure.
+
+---
+
+## 🎯 What I Do
+
+I help engineering teams create documentation that:
+- **Removes ambiguity** - Clear, precise language that eliminates guesswork
+- **Scales with teams** - Documentation that grows and adapts with your organization
+- **Improves developer experience** - Reducing friction in onboarding, testing, and deployment
+- **Survives change** - Living documentation that stays current and useful
+
+## 💬 Get In Touch
+
+Ready to improve your team's documentation? Let's discuss how I can help.
 
 📫 [opperman.jonathan@gmail.com](mailto:opperman.jonathan@gmail.com)  
 🌍 [LinkedIn](https://www.linkedin.com/in/jonathanopperman-0a368b4a)
