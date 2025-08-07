@@ -1,424 +1,438 @@
 {"0": {
     "doc": "About",
     "title": "About Jonathan Opperman",
-    "content": "I’m a technical writer specializing in QA, DevOps, and technical documentation. With over 15 years of experience in software development and testing, I help teams create clear, comprehensive documentation that improves development workflows. ",
+    "content": " ",
     "url": "/about/#about-jonathan-opperman",
     
     "relUrl": "/about/#about-jonathan-opperman"
   },"1": {
     "doc": "About",
-    "title": "Skills",
-    "content": ". | Technical Writing: API documentation, user guides, technical specifications | QA &amp; Testing: Test automation, CI/CD pipelines, quality assurance processes | DevOps: Infrastructure documentation, deployment guides, monitoring setup | Tools: Git, Markdown, Jekyll, Azure DevOps, Playwright, Docker | . ",
-    "url": "/about/#skills",
+    "title": "From QA to Docs: Why I Built This Portfolio",
+    "content": "For nearly two decades, I’ve worked in QA, automation, DevOps, and Agile leadership — often sitting at the intersection of testing, infrastructure, and engineering delivery. I’ve built test frameworks from scratch, helped mature CI/CD pipelines, and mentored developers and testers in automation strategy. I’ve been the person teams come to when something breaks in production — or when they can’t figure out what exactly the documentation meant. Somewhere along the way, I realized I didn’t just enjoy building stable systems — I enjoyed explaining how they worked even more. ",
+    "url": "/about/#from-qa-to-docs-why-i-built-this-portfolio",
     
-    "relUrl": "/about/#skills"
+    "relUrl": "/about/#from-qa-to-docs-why-i-built-this-portfolio"
   },"2": {
     "doc": "About",
-    "title": "Experience",
-    "content": ". | Technical documentation for enterprise software | QA process documentation and test automation guides | DevOps pipeline documentation and troubleshooting guides | API documentation and developer onboarding materials | . ",
-    "url": "/about/#experience",
+    "title": "The Writing Was Always There",
+    "content": "Every role I held involved writing: onboarding guides, test strategy docs, internal wikis, technical audits, CI pipeline walkthroughs, sprint newsletters, and architectural notes. I didn’t call it “technical writing” at the time — I just wanted my teams to move faster without tripping over poor documentation or unclear expectations. As I leaned further into developer experience and platform support, I noticed how much value clear, concise documentation brought to distributed teams. Great tools still fail if the docs are vague. Good engineers still burn out if the processes are opaque. Writing became the thing that made everything else smoother. ",
+    "url": "/about/#the-writing-was-always-there",
     
-    "relUrl": "/about/#experience"
+    "relUrl": "/about/#the-writing-was-always-there"
   },"3": {
+    "doc": "About",
+    "title": "Why This Portfolio Exists",
+    "content": "This site is a reflection of that pivot — from QA Engineer to Technical Writer and Developer Experience contributor. I created it to showcase a few of the ways I think about communication in technical contexts: . | Clarity first. Technical writing isn’t about sounding smart. It’s about removing ambiguity. | Context matters. Writing a CI/CD guide isn’t just listing steps — it’s understanding the developer’s mental model and removing friction. | Docs as infrastructure. Like good test automation, good documentation scales with the team and survives change. | . Whether I’m documenting a test harness, a deployment pipeline, or a VPN setup — I’m thinking about the person reading it after a long day, with a bug to fix and no time to guess. ",
+    "url": "/about/#why-this-portfolio-exists",
+    
+    "relUrl": "/about/#why-this-portfolio-exists"
+  },"4": {
+    "doc": "About",
+    "title": "What’s Next",
+    "content": "I’m open to roles in technical writing, platform documentation, or developer enablement — ideally in async-friendly, engineering-led teams that care about clarity. This portfolio is just a starting point. More samples will follow, including: . | Internal dev guides | API reference walkthroughs | Infrastructure onboarding docs | Open source contribution notes | . Thanks for visiting. —Jonathan . ",
+    "url": "/about/#whats-next",
+    
+    "relUrl": "/about/#whats-next"
+  },"5": {
     "doc": "About",
     "title": "Contact",
     "content": "📫 opperman.jonathan@gmail.com 🌍 LinkedIn . ",
     "url": "/about/#contact",
     
     "relUrl": "/about/#contact"
-  },"4": {
+  },"6": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"5": {
+  },"7": {
     "doc": "API Documentation Best Practices",
     "title": "API Documentation Best Practices",
     "content": "This article is coming soon… . ",
     "url": "/posts/api-documentation-guide/",
     
     "relUrl": "/posts/api-documentation-guide/"
-  },"6": {
+  },"8": {
     "doc": "API Documentation Best Practices",
     "title": "Overview",
     "content": "A comprehensive guide to creating effective API documentation that developers love to use. This guide will cover everything from OpenAPI specifications to interactive documentation tools. ",
     "url": "/posts/api-documentation-guide/#overview",
     
     "relUrl": "/posts/api-documentation-guide/#overview"
-  },"7": {
+  },"9": {
     "doc": "API Documentation Best Practices",
     "title": "Topics to be covered:",
     "content": ". | OpenAPI/Swagger specification best practices | Interactive documentation tools (Swagger UI, Redoc, etc.) | Code examples in multiple languages | Authentication documentation | Error handling documentation | Versioning strategies | Documentation testing and validation | . ",
     "url": "/posts/api-documentation-guide/#topics-to-be-covered",
     
     "relUrl": "/posts/api-documentation-guide/#topics-to-be-covered"
-  },"8": {
+  },"10": {
     "doc": "API Documentation Best Practices",
     "title": "Key Principles",
     "content": ". | Clarity: Write for developers, not for yourself | Completeness: Document all endpoints, parameters, and responses | Examples: Provide real-world usage examples | Consistency: Use consistent formatting and terminology | Testing: Validate your documentation against the actual API | . Stay tuned for the complete guide! . ",
     "url": "/posts/api-documentation-guide/#key-principles",
     
     "relUrl": "/posts/api-documentation-guide/#key-principles"
-  },"9": {
+  },"11": {
     "doc": "Resume",
     "title": "CI/CD Guide: Integrating Playwright Tests with Azure DevOps",
     "content": " ",
     "url": "/posts/playwright-ci-guide/#cicd-guide-integrating-playwright-tests-with-azure-devops",
     
     "relUrl": "/posts/playwright-ci-guide/#cicd-guide-integrating-playwright-tests-with-azure-devops"
-  },"10": {
+  },"12": {
     "doc": "Resume",
     "title": "Overview",
     "content": "This guide walks you through setting up Playwright end-to-end (E2E) tests as part of your CI/CD pipeline using Azure DevOps and Docker. It assumes a basic understanding of Node.js projects and Azure Pipelines. ",
     "url": "/posts/playwright-ci-guide/#overview",
     
     "relUrl": "/posts/playwright-ci-guide/#overview"
-  },"11": {
+  },"13": {
     "doc": "Resume",
     "title": "Prerequisites",
     "content": ". | Azure DevOps account with access to Pipelines | A Git repository with a Node.js project | Playwright tests set up locally | Docker installed (for optional container execution) | . ",
     "url": "/posts/playwright-ci-guide/#prerequisites",
     
     "relUrl": "/posts/playwright-ci-guide/#prerequisites"
-  },"12": {
+  },"14": {
     "doc": "Resume",
     "title": "1. Install Playwright in Your Project",
     "content": "npm install -D @playwright/test npx playwright install . Add a basic test under tests/example.spec.ts: . import { test, expect } from '@playwright/test'; test('homepage loads', async ({ page }) =&gt; { await page.goto('https://example.com'); await expect(page).toHaveTitle(/Example Domain/); }); . ",
     "url": "/posts/playwright-ci-guide/#1-install-playwright-in-your-project",
     
     "relUrl": "/posts/playwright-ci-guide/#1-install-playwright-in-your-project"
-  },"13": {
+  },"15": {
     "doc": "Resume",
     "title": "2. Add Playwright to Your Azure DevOps Pipeline",
     "content": "Create azure-pipelines.yml in your repo root: . trigger: branches: include: - main pool: vmImage: 'ubuntu-latest' steps: - task: NodeTool@0 inputs: versionSpec: '18.x' displayName: 'Install Node.js' - script: | npm ci npx playwright install --with-deps displayName: 'Install Dependencies' - script: | npx playwright test displayName: 'Run Playwright Tests' - task: PublishTestResults@2 inputs: testResultsFiles: '**/test-results/**/*.xml' condition: succeededOrFailed() . If you’re using HTML reports: . - task: PublishPipelineArtifact@1 inputs: targetPath: playwright-report artifact: playwright-report publishLocation: pipeline . ",
     "url": "/posts/playwright-ci-guide/#2-add-playwright-to-your-azure-devops-pipeline",
     
     "relUrl": "/posts/playwright-ci-guide/#2-add-playwright-to-your-azure-devops-pipeline"
-  },"14": {
+  },"16": {
     "doc": "Resume",
     "title": "3. (Optional) Dockerize Test Execution",
     "content": "Create a simple Dockerfile: . FROM mcr.microsoft.com/playwright:v1.42.1-jammy WORKDIR /app COPY . RUN npm ci CMD [\"npx\", \"playwright\", \"test\"] . Then add a build-and-test job in Azure DevOps if you prefer containerized runs. ",
     "url": "/posts/playwright-ci-guide/#3-optional-dockerize-test-execution",
     
     "relUrl": "/posts/playwright-ci-guide/#3-optional-dockerize-test-execution"
-  },"15": {
+  },"17": {
     "doc": "Resume",
     "title": "4. Review Output &amp; Artifacts",
     "content": ". | Test output will appear in the pipeline logs | Artifacts (HTML reports) can be downloaded via the Pipeline Artifacts tab | Failures are automatically surfaced in Azure DevOps Test Reports if properly configured | . ",
     "url": "/posts/playwright-ci-guide/#4-review-output--artifacts",
     
     "relUrl": "/posts/playwright-ci-guide/#4-review-output--artifacts"
-  },"16": {
+  },"18": {
     "doc": "Resume",
     "title": "5. Troubleshooting",
     "content": "| Issue | Fix | . | Browser install fails | Add npx playwright install --with-deps to pipeline | . | HTML report not rendering | Ensure report folder is published as artifact | . | Timeout issues | Use timeout: 60000 in Playwright config | . ",
     "url": "/posts/playwright-ci-guide/#5-troubleshooting",
     
     "relUrl": "/posts/playwright-ci-guide/#5-troubleshooting"
-  },"17": {
+  },"19": {
     "doc": "Resume",
     "title": "Final Thoughts",
     "content": "This setup allows you to continuously run Playwright tests against your web app with minimal effort, scaling from simple validation to full regression testing in CI/CD. It’s fast, reliable, and works great with modern development flows. For further customization, consider setting up parallel test shards, recording videos, or integrating Slack notifications. ",
     "url": "/posts/playwright-ci-guide/#final-thoughts",
     
     "relUrl": "/posts/playwright-ci-guide/#final-thoughts"
-  },"18": {
+  },"20": {
     "doc": "Resume",
     "title": "Resume",
     "content": " ",
     "url": "/posts/playwright-ci-guide/",
     
     "relUrl": "/posts/playwright-ci-guide/"
-  },"19": {
+  },"21": {
     "doc": "Getting Started with Jekyll",
     "title": "Getting Started with Jekyll",
     "content": "A beginner’s guide to creating static sites with Jekyll and GitHub Pages. ",
     "url": "/tutorials/getting-started-with-jekyll/",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/"
-  },"20": {
+  },"22": {
     "doc": "Getting Started with Jekyll",
     "title": "What is Jekyll?",
     "content": "Jekyll is a static site generator that transforms plain text files into websites. It’s perfect for blogs, documentation sites, and portfolios. ",
     "url": "/tutorials/getting-started-with-jekyll/#what-is-jekyll",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#what-is-jekyll"
-  },"21": {
+  },"23": {
     "doc": "Getting Started with Jekyll",
     "title": "Prerequisites",
     "content": ". | Ruby installed on your system | Basic knowledge of Markdown | Git for version control | . ",
     "url": "/tutorials/getting-started-with-jekyll/#prerequisites",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#prerequisites"
-  },"22": {
+  },"24": {
     "doc": "Getting Started with Jekyll",
     "title": "Installation",
     "content": ". | Install Jekyll: gem install jekyll bundler . | Create a new Jekyll site: jekyll new my-site cd my-site . | Start the development server: bundle exec jekyll serve . | . ",
     "url": "/tutorials/getting-started-with-jekyll/#installation",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#installation"
-  },"23": {
+  },"25": {
     "doc": "Getting Started with Jekyll",
     "title": "Basic Structure",
     "content": "my-site/ ├── _posts/ # Blog posts ├── _layouts/ # HTML templates ├── _includes/ # Reusable components ├── assets/ # CSS, JS, images ├── _config.yml # Site configuration └── index.md # Homepage . ",
     "url": "/tutorials/getting-started-with-jekyll/#basic-structure",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#basic-structure"
-  },"24": {
+  },"26": {
     "doc": "Getting Started with Jekyll",
     "title": "Creating Content",
     "content": "Posts . Create files in _posts/ with the format: YYYY-MM-DD-title.md . Pages . Create markdown files in the root directory with front matter. ",
     "url": "/tutorials/getting-started-with-jekyll/#creating-content",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#creating-content"
-  },"25": {
+  },"27": {
     "doc": "Getting Started with Jekyll",
     "title": "Deployment",
     "content": "The easiest way to deploy is with GitHub Pages: . | Push your code to GitHub | Enable GitHub Pages in repository settings | Your site will be available at username.github.io/repository-name | . ",
     "url": "/tutorials/getting-started-with-jekyll/#deployment",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#deployment"
-  },"26": {
+  },"28": {
     "doc": "Getting Started with Jekyll",
     "title": "Next Steps",
     "content": ". | Customize themes | Add plugins | Set up custom domains | Optimize for SEO | . This tutorial will be expanded with more detailed examples and advanced topics. ",
     "url": "/tutorials/getting-started-with-jekyll/#next-steps",
     
     "relUrl": "/tutorials/getting-started-with-jekyll/#next-steps"
-  },"27": {
+  },"29": {
     "doc": "Home",
     "title": "Jonathan Opperman",
     "content": "Welcome to my technical writing portfolio. I specialize in creating clear, comprehensive documentation for QA, DevOps, and technical processes. ",
     "url": "/#jonathan-opperman",
     
     "relUrl": "/#jonathan-opperman"
-  },"28": {
+  },"30": {
     "doc": "Home",
     "title": "📘 Writing Samples",
     "content": "CI/CD Guide: Playwright + Azure DevOps . A comprehensive guide to setting up automated testing with Playwright in Azure DevOps pipelines. Shift-Left Testing: Why It Matters (Coming Soon) . An exploration of shift-left testing methodologies and their impact on software quality. VyOS Quick Start: WireGuard VPN (Coming Soon) . A practical guide to setting up WireGuard VPN on VyOS routers. ",
     "url": "/#-writing-samples",
     
     "relUrl": "/#-writing-samples"
-  },"29": {
+  },"31": {
     "doc": "Home",
     "title": "💬 Contact",
     "content": "📫 opperman.jonathan@gmail.com 🌍 LinkedIn . ",
     "url": "/#-contact",
     
     "relUrl": "/#-contact"
-  },"30": {
+  },"32": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"31": {
+  },"33": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "CI/CD Guide: Integrating Playwright Tests with Azure DevOps",
     "content": " ",
     "url": "/posts/playwright-ci-guide/#cicd-guide-integrating-playwright-tests-with-azure-devops",
     
     "relUrl": "/posts/playwright-ci-guide/#cicd-guide-integrating-playwright-tests-with-azure-devops"
-  },"32": {
+  },"34": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "Overview",
     "content": "This guide walks you through setting up Playwright end-to-end (E2E) tests as part of your CI/CD pipeline using Azure DevOps and Docker. It assumes a basic understanding of Node.js projects and Azure Pipelines. ",
     "url": "/posts/playwright-ci-guide/#overview",
     
     "relUrl": "/posts/playwright-ci-guide/#overview"
-  },"33": {
+  },"35": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "Prerequisites",
     "content": ". | Azure DevOps account with access to Pipelines | A Git repository with a Node.js project | Playwright tests set up locally | Docker installed (for optional container execution) | . ",
     "url": "/posts/playwright-ci-guide/#prerequisites",
     
     "relUrl": "/posts/playwright-ci-guide/#prerequisites"
-  },"34": {
+  },"36": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "1. Install Playwright in Your Project",
     "content": "npm install -D @playwright/test npx playwright install . Add a basic test under tests/example.spec.ts: . import { test, expect } from '@playwright/test'; test('homepage loads', async ({ page }) =&gt; { await page.goto('https://example.com'); await expect(page).toHaveTitle(/Example Domain/); }); . ",
     "url": "/posts/playwright-ci-guide/#1-install-playwright-in-your-project",
     
     "relUrl": "/posts/playwright-ci-guide/#1-install-playwright-in-your-project"
-  },"35": {
+  },"37": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "2. Add Playwright to Your Azure DevOps Pipeline",
     "content": "Create azure-pipelines.yml in your repo root: . trigger: branches: include: - main pool: vmImage: 'ubuntu-latest' steps: - task: NodeTool@0 inputs: versionSpec: '18.x' displayName: 'Install Node.js' - script: | npm ci npx playwright install --with-deps displayName: 'Install Dependencies' - script: | npx playwright test displayName: 'Run Playwright Tests' - task: PublishTestResults@2 inputs: testResultsFiles: '**/test-results/**/*.xml' condition: succeededOrFailed() . If you’re using HTML reports: . - task: PublishPipelineArtifact@1 inputs: targetPath: playwright-report artifact: playwright-report publishLocation: pipeline . ",
     "url": "/posts/playwright-ci-guide/#2-add-playwright-to-your-azure-devops-pipeline",
     
     "relUrl": "/posts/playwright-ci-guide/#2-add-playwright-to-your-azure-devops-pipeline"
-  },"36": {
+  },"38": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "3. (Optional) Dockerize Test Execution",
     "content": "Create a simple Dockerfile: . FROM mcr.microsoft.com/playwright:v1.42.1-jammy WORKDIR /app COPY . RUN npm ci CMD [\"npx\", \"playwright\", \"test\"] . Then add a build-and-test job in Azure DevOps if you prefer containerized runs. ",
     "url": "/posts/playwright-ci-guide/#3-optional-dockerize-test-execution",
     
     "relUrl": "/posts/playwright-ci-guide/#3-optional-dockerize-test-execution"
-  },"37": {
+  },"39": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "4. Review Output &amp; Artifacts",
     "content": ". | Test output will appear in the pipeline logs | Artifacts (HTML reports) can be downloaded via the Pipeline Artifacts tab | Failures are automatically surfaced in Azure DevOps Test Reports if properly configured | . ",
     "url": "/posts/playwright-ci-guide/#4-review-output--artifacts",
     
     "relUrl": "/posts/playwright-ci-guide/#4-review-output--artifacts"
-  },"38": {
+  },"40": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "5. Troubleshooting",
     "content": "| Issue | Fix | . | Browser install fails | Add npx playwright install --with-deps to pipeline | . | HTML report not rendering | Ensure report folder is published as artifact | . | Timeout issues | Use timeout: 60000 in Playwright config | . ",
     "url": "/posts/playwright-ci-guide/#5-troubleshooting",
     
     "relUrl": "/posts/playwright-ci-guide/#5-troubleshooting"
-  },"39": {
+  },"41": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "Final Thoughts",
     "content": "This setup allows you to continuously run Playwright tests against your web app with minimal effort, scaling from simple validation to full regression testing in CI/CD. It’s fast, reliable, and works great with modern development flows. For further customization, consider setting up parallel test shards, recording videos, or integrating Slack notifications. ",
     "url": "/posts/playwright-ci-guide/#final-thoughts",
     
     "relUrl": "/posts/playwright-ci-guide/#final-thoughts"
-  },"40": {
+  },"42": {
     "doc": "CI/CD Guide - Playwright + Azure DevOps",
     "title": "CI/CD Guide - Playwright + Azure DevOps",
     "content": " ",
     "url": "/posts/playwright-ci-guide/",
     
     "relUrl": "/posts/playwright-ci-guide/"
-  },"41": {
+  },"43": {
     "doc": "Work Experience",
     "title": "Experience",
     "content": " ",
     "url": "/resume/#experience",
     
     "relUrl": "/resume/#experience"
-  },"42": {
+  },"44": {
     "doc": "Work Experience",
     "title": "Outeniqua Studios — QA Lead / SDET / Platform Engineer",
     "content": "Dec 2019 – Present (Remote | Contract) . Led QA strategy, test automation, and DevOps enablement for international clients in fintech, SaaS, and enterprise platforms. | Designed and maintained end-to-end automation frameworks using Playwright, Cypress, and Selenium | Integrated QA tooling into CI/CD pipelines using Azure DevOps, GitLab, and Docker | Built internal platforms to standardize test environments, infrastructure provisioning, and deployment workflows | Authored developer-facing documentation for onboarding, testing, and deployment processes | Mentored junior engineers and cross-functional teams on test strategy, tooling, and infrastructure-as-code best practices | Delivered performance and security testing pipelines with tools like k6 and OWASP ZAP | Collaborated directly with engineering leadership to shape internal platform architecture and developer tooling | . Developer Experience &amp; Platform Engineering Crossover: . | Acted as a bridge between infrastructure and engineering by simplifying dev workflows, reducing friction across environments, and documenting tribal knowledge | Developed reusable scripts, test harnesses, and CI/CD templates that reduced onboarding time and build complexity | Wrote internal knowledge bases, runbooks, and infrastructure diagrams that improved team autonomy and deployment confidence | Proactively surfaced and resolved workflow pain points through both tooling and process improvements | . ",
     "url": "/resume/#outeniqua-studios--qa-lead--sdet--platform-engineer",
     
     "relUrl": "/resume/#outeniqua-studios--qa-lead--sdet--platform-engineer"
-  },"43": {
+  },"45": {
     "doc": "Work Experience",
     "title": "Entersekt — Software Quality Lead → Scrum Master (Technical)",
     "content": "Nov 2017 – Oct 2019 . Held a hybrid role spanning QA leadership and technical Scrum mastery across three Agile development teams delivering secure identity and banking products. | Owned test strategy, tooling design, and automation implementation for multiple distributed teams | Introduced BDD testing frameworks in Node.js and integrated them with CI/CD pipelines (Docker, Azure DevOps) | Partnered with DevOps to strengthen release gates, automate regression checks, and improve deployment confidence | Led QA coaching, cross-functional mentoring, and test strategy design across engineering teams | Transitioned into Scrum Master responsibilities, where I facilitated Agile ceremonies, removed delivery blockers, and improved team focus and delivery | Created visual sprint newsletters to improve engineering visibility to leadership and cross-team alignment | . Developer Experience &amp; Developer Relations Crossover: . | Developed living documentation to support onboarding, testing, and deployment workflows using Markdown and Git for version control | Improved developer experience through tighter feedback loops, accessible testing artifacts, and clear release processes | Acted as a technical liaison between engineering and stakeholders, translating complex updates into executive-readable insights | Built alignment through internal comms, dashboards, and process visualizations that increased transparency and morale | . ",
     "url": "/resume/#entersekt--software-quality-lead--scrum-master-technical",
     
     "relUrl": "/resume/#entersekt--software-quality-lead--scrum-master-technical"
-  },"44": {
+  },"46": {
     "doc": "Work Experience",
     "title": "Digital Outsource Services — Senior QA Engineer",
     "content": "Jun 2016 – Nov 2017 . Led QA efforts on .NET-based platforms for gaming and customer-facing services. | Built automation scripts with Selenium and PowerShell integrated with TeamCity | Collaborated with DevOps on deployment stability and shorter feedback cycles | Mentored junior engineers and contributed to acceptance criteria refinement | . ",
     "url": "/resume/#digital-outsource-services--senior-qa-engineer",
     
     "relUrl": "/resume/#digital-outsource-services--senior-qa-engineer"
-  },"45": {
+  },"47": {
     "doc": "Work Experience",
     "title": "COMPRSA — QA Engineer (Fortune 500 Clients)",
     "content": "Dec 2012 – Apr 2016 . Worked on high-profile projects for AT&amp;T and JK-Group (via COMPRSA). | Built automation suites in CodedUI (C#) and Python | Provided internal test documentation and trained team members | Hosted internal workshops on TDD and automation onboarding | . ",
     "url": "/resume/#comprsa--qa-engineer-fortune-500-clients",
     
     "relUrl": "/resume/#comprsa--qa-engineer-fortune-500-clients"
-  },"46": {
+  },"48": {
     "doc": "Work Experience",
     "title": "Fujitsu (NMB Municipality) — Test Analyst",
     "content": "Feb 2008 – Feb 2012 . Early-career QA role on enterprise-scale municipal systems . | Gained exposure to both Waterfall and Agile methodologies | Learned core SQL, frontend/backend integration testing, and user support | . ",
     "url": "/resume/#fujitsu-nmb-municipality--test-analyst",
     
     "relUrl": "/resume/#fujitsu-nmb-municipality--test-analyst"
-  },"47": {
+  },"49": {
     "doc": "Work Experience",
     "title": "Work Experience",
     "content": " ",
     "url": "/resume/",
     
     "relUrl": "/resume/"
-  },"48": {
+  },"50": {
     "doc": "Shift-Left Testing - Why It Matters",
     "title": "Shift-Left Testing: Why It Matters",
     "content": "This article is coming soon… . ",
     "url": "/posts/shift-left/#shift-left-testing-why-it-matters",
     
     "relUrl": "/posts/shift-left/#shift-left-testing-why-it-matters"
-  },"49": {
+  },"51": {
     "doc": "Shift-Left Testing - Why It Matters",
     "title": "Overview",
     "content": "Shift-left testing is a software testing approach that involves testing earlier in the software development lifecycle. This article will explore the benefits, implementation strategies, and real-world examples of shift-left testing methodologies. ",
     "url": "/posts/shift-left/#overview",
     
     "relUrl": "/posts/shift-left/#overview"
-  },"50": {
+  },"52": {
     "doc": "Shift-Left Testing - Why It Matters",
     "title": "Topics to be covered:",
     "content": ". | What is shift-left testing? | Benefits of early testing | Implementation strategies | Tools and frameworks | Case studies and examples | Best practices | . Stay tuned for the complete article! . ",
     "url": "/posts/shift-left/#topics-to-be-covered",
     
     "relUrl": "/posts/shift-left/#topics-to-be-covered"
-  },"51": {
+  },"53": {
     "doc": "Shift-Left Testing - Why It Matters",
     "title": "Shift-Left Testing - Why It Matters",
     "content": " ",
     "url": "/posts/shift-left/",
     
     "relUrl": "/posts/shift-left/"
-  },"52": {
+  },"54": {
     "doc": "Tutorials",
     "title": "Tutorials",
     "content": "Step-by-step guides for technical writing, documentation, and development tools. ",
     "url": "/tutorials/",
     
     "relUrl": "/tutorials/"
-  },"53": {
+  },"55": {
     "doc": "Tutorials",
     "title": "Available Tutorials",
     "content": ". | Getting Started with Jekyll | . ",
     "url": "/tutorials/#available-tutorials",
     
     "relUrl": "/tutorials/#available-tutorials"
-  },"54": {
+  },"56": {
     "doc": "Tutorials",
     "title": "Coming Soon",
     "content": ". | Markdown Best Practices | Technical Writing Fundamentals | Documentation Testing Strategies | API Documentation Tools | . ",
     "url": "/tutorials/#coming-soon",
     
     "relUrl": "/tutorials/#coming-soon"
-  },"55": {
+  },"57": {
     "doc": "VyOS Quick Start - WireGuard VPN",
     "title": "VyOS Quick Start: WireGuard VPN",
     "content": "This article is coming soon… . ",
     "url": "/posts/vyos-wireguard/#vyos-quick-start-wireguard-vpn",
     
     "relUrl": "/posts/vyos-wireguard/#vyos-quick-start-wireguard-vpn"
-  },"56": {
+  },"58": {
     "doc": "VyOS Quick Start - WireGuard VPN",
     "title": "Overview",
     "content": "A practical guide to setting up WireGuard VPN on VyOS routers. This tutorial will walk through the complete setup process from initial configuration to client connection. ",
     "url": "/posts/vyos-wireguard/#overview",
     
     "relUrl": "/posts/vyos-wireguard/#overview"
-  },"57": {
+  },"59": {
     "doc": "VyOS Quick Start - WireGuard VPN",
     "title": "Topics to be covered:",
     "content": ". | VyOS router setup and configuration | WireGuard VPN installation and configuration | Key generation and management | Client configuration | Security considerations | Troubleshooting common issues | . Stay tuned for the complete article! . ",
     "url": "/posts/vyos-wireguard/#topics-to-be-covered",
     
     "relUrl": "/posts/vyos-wireguard/#topics-to-be-covered"
-  },"58": {
+  },"60": {
     "doc": "VyOS Quick Start - WireGuard VPN",
     "title": "VyOS Quick Start - WireGuard VPN",
     "content": " ",
     "url": "/posts/vyos-wireguard/",
     
     "relUrl": "/posts/vyos-wireguard/"
-  },"59": {
+  },"61": {
     "doc": "Writing Samples",
     "title": "Writing Samples",
     "content": "A collection of technical writing samples covering QA, DevOps, and technical documentation. ",
     "url": "/writing-samples/",
     
     "relUrl": "/writing-samples/"
-  },"60": {
+  },"62": {
     "doc": "Writing Samples",
     "title": "Available Samples",
     "content": ". | CI/CD Guide: Playwright + Azure DevOps | Shift-Left Testing: Why It Matters (Coming Soon) | VyOS Quick Start: WireGuard VPN (Coming Soon) | . ",
