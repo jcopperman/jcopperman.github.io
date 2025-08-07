@@ -3,7 +3,7 @@ description: Selected writing samples in QA, DevOps, and technical documentation
 author: Jonathan Opperman
 email: opperman.jonathan@gmail.com
 url: "https://jcopperman.github.io"
-baseurl: "/portfolio"
+baseurl: ""
 
 # Theme configuration
 remote_theme: just-the-docs/just-the-docs
