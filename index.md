@@ -44,5 +44,5 @@ I help engineering teams create documentation that:
 Ready to improve your team's documentation? Let's discuss how I can help.
 
 [Email](mailto:opperman.jonathan@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/jonathanopperman-0a368b4a)
+[LinkedIn](https://www.linkedin.com/in/jonathan-opperman-0a368b4a/)
 
