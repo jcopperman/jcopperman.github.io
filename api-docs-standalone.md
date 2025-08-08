@@ -2,6 +2,7 @@
 layout: api-docs-standalone
 title: PayFlow API Documentation
 permalink: /api-docs/
+nav_exclude: true
 ---
 
 # PayFlow API Documentation
