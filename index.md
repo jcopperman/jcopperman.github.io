@@ -19,7 +19,7 @@ Explore my 15+ years of experience in QA, automation, DevOps, and technical lead
 
 ### [Writing Samples](writing-samples)
 **Technical documentation and guides**  
-Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, and infrastructure documentation. Each piece demonstrates my approach to clear, actionable technical communication.
+Browse my collection of technical writing samples, including CI/CD guides, testing methodologies, infrastructure documentation, and interactive API documentation. Each piece demonstrates my approach to clear, actionable technical communication.
 
 ### [Tutorials](tutorials)
 **Step-by-step guides and best practices**  

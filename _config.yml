@@ -58,4 +58,5 @@ just_the_docs:
   heading_anchors: true
   
   # Footer content appears at the bottom of every page
-  footer_content: "Copyright &copy; 2025 Jonathan Opperman. All rights reserved."
+  footer_content: |
+    <p>Copyright © 2025 Jonathan Opperman. All rights reserved.</p>
